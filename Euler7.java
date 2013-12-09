@@ -4,7 +4,7 @@ class Euler7
 {
     public static void main(String[] args)
     {
-        int limit = 1000000;
+        int limit = 10001;
         int counter = 0;
         int res = 0;
         int i = 1;
