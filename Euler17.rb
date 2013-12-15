@@ -1,6 +1,5 @@
 
 
-
 def num_to_words(num)
 	ones = ["", "one", "two", "three", "four", "five", 
 		"six", "seven", "eight", "nine"]
